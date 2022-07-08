@@ -1,0 +1,14 @@
+for hour hand
+12 hr = 360`                60 min = 30`
+1 hr  = 30`                 1 min   = 1/2`
+h hr  = 30h + m/2           m min   = m/2`
+
+for min hand
+60 min = 360`
+1 min  = 6`
+m min  = 6m`
+
+for sec hand
+60sec = 360`
+1sec  = 6`
+s sec = 6s`
